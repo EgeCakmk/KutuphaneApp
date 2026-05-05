@@ -47,7 +47,6 @@
   <ItemGroup>
     <Compile Include="Kitap.cs" />
     <Compile Include="KitapDal.cs" />
-    <Compile Include="KutuphaneService.cs" />
     <Compile Include="KutuphaneUI.cs">
       <SubType>Form</SubType>
     </Compile>
