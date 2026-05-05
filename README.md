@@ -10,6 +10,7 @@ C# Form ile geliştirilmiş temel bir kutuphane takip uygulamasidir.
 * Kitap Arama
 * Kitap Listeleme (ListBox ve DataGridView)
 * Kitap Guncelleme
+* Kitap Silme
 * SQL Server Veritabani Entegrasyonu
 
 
